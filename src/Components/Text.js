@@ -1,11 +1,11 @@
-import React from 'react'
+import React from "react";
 
-const Text = ({txt}) => {
+const Text = ({ txt }) => {
   return (
     <>
-    <span style={{color:'red'}}>{txt}</span>
+      <span style={{ color: "red" }}>{txt}</span>
     </>
-  )
-}
+  );
+};
 
-export default Text
+export default Text;
