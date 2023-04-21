@@ -31,4 +31,4 @@ const Invitation = ({ name, subject, email, friends, place }) => {
   );
 };
 
-export default Invitation;
+export default Invitation; 
